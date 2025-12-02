@@ -1,9 +1,7 @@
-# Computational biology projects
-
-## [Doctoral thesis - Cells in Time and Space: Beyond comprehensive cellular atlases towards a deeper understanding of disease](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1929647&dswid=-2336)
+# [Doctoral thesis - Cells in Time and Space: Beyond comprehensive cellular atlases towards a deeper understanding of disease](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1929647&dswid=-2336)
 This thesis advances spatial biology by developing and applying in situ sequencing (ISS) to map cellular organization and disease processes directly within intact tissues. [Paper I](https://pmc.ncbi.nlm.nih.gov/articles/PMC7641728/) introduces an improved hybridization-based ISS method with higher sensitivity and broader gene coverage, enabling analysis of challenging human brain tissue. [Paper II](https://www.nature.com/articles/s42003-021-02517-z) uses this technology to chart 75 transcriptomic cell types across the human cortex, mapping nearly 60,000 cells in their native laminar context. [Paper III](https://pmc.ncbi.nlm.nih.gov/articles/PMC9131697/) applies ISS to developmental biology, profiling oligodendrocyte lineage progression across mouse spinal cord and brain, revealing spatially heterogeneous maturation and neighbor relationships. [Paper IV](https://doi.org/10.1016/j.cell.2024.02.030) models neuroinflammatory lesion development in EAE, constructing a spatiotemporal atlas of MS-like pathology and uncovering globally induced, reversible disease-associated glial states and lesion-propagation dynamics, validated in human MS spinal cord. Collectively, the thesis demonstrates how ISS can move beyond static cellular atlases to illuminate dynamic tissue architecture, lineage progression, and disease evolution.
 
-## PhD projects
+# PhD projects
 - **[Cellular Architecture of Evolving neuroinflammatory lesions and MS pathology](https://github.com/christoffermattssonlangseth/cellular-architecture-of-evolving-neuroinflammatory-lesions-and-multiple-sclerosis-pathology)**: Multiple sclerosis (MS) involves multifocal lesions and chronic smoldering pathology, yet the dynamic cellular processes driving lesion evolution remain poorly understood. Using the EAE mouse model together with single-cell spatial transcriptomics (in situ sequencing), we mapped disease progression across time and space, revealing centrifugal growth of active lesions and the emergence of disease-associated glial states that form independently of lesions and change dynamically throughout the disease course. Parallel single-cell spatial mapping of human MS spinal cords confirmed distinct distributions of homeostatic and disease-associated glia, enabled fine-grained deconvolution of active and inactive lesions, and uncovered previously unrecognized pathological sub-compartments. Together, this work establishes a cross-species single-cell spatial atlas of MS neuropathology and highlights the complex, evolving cellular dynamics underlying lesion initiation, propagation, and resolution. (**first ever Xenium publication**) *([Cell, 2024](https://doi.org/10.1016/j.cell.2024.02.030))*
 
 Featured in:
@@ -11,7 +9,7 @@ Featured in:
 2. [Stockholm Univerisity website](https://www.su.se/department-of-biochemistry-and-biophysics/news/cellular-architecture-of-lesions-in-ms-now-mapped-out-1.723838)
 3. [Karolinska Institutet website](https://news.ki.se/cellular-architecture-of-lesions-in-ms-now-mapped-out)
 
-## PostDoc projects
+# PostDoc projects
 - **[oligo-mtDSB](https://github.com/christoffermattssonlangseth/oligo-mtDSB)**: Investigates the consequences of DBS in mtDNA in oligos. Xenium data.
 
 - **[metamitoMicS](https://github.com/christoffermattssonlangseth/metamitoMicS)**: metamitoMicS is a repository focused on the analysis of metabolic and mitochondrial pathways in neuroinflammation and MS. It brings together spatial transcriptomics, omics integration, and computational biology to explore how energetic dysfunction shapes lesion microenvironments.
