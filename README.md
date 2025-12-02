@@ -7,8 +7,8 @@ My thesis centered around spatial biology by developing and applying in situ seq
 
 Featured in:
 1. [10X Genomics website on inital release](https://www.10xgenomics.com/blog/plotting-the-course-of-multiple-sclerosis-lesions-with-single-cell-spatial-imaging)
-2. [Stockholm Univerisity website](https://www.su.se/department-of-biochemistry-and-biophysics/news/cellular-architecture-of-lesions-in-ms-now-mapped-out-1.723838)
-3. [Karolinska Institutet website](https://news.ki.se/cellular-architecture-of-lesions-in-ms-now-mapped-out)
+2. [Stockholm University website](https://www.su.se/department-of-biochemistry-and-biophysics/news/cellular-architecture-of-lesions-in-ms-now-mapped-out-1.723838)
+3. [Karolinska Institute website](https://news.ki.se/cellular-architecture-of-lesions-in-ms-now-mapped-out)
 
 ## PostDoc projects
 - **[oligo-mtDSB](https://github.com/christoffermattssonlangseth/oligo-mtDSB)**: Investigates the consequences of DBS in mtDNA in oligos. Xenium data.
