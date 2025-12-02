@@ -1,4 +1,19 @@
 # Computational biology projects
 
-## PhD project
-- **[dropEst](https://github.com/kharchenkolab/dropEst)**: low-level pre-processing of scRNA-seq fastq files for accurate estimation of gene expression matrices *([Genome Biology, 2018](https://doi.org/10.1186/s13059-018-1449-6))*
+## PhD projects
+- **[Cellular Architecture of Evolving neuroinflammatory lesions and MS pathology](https://github.com/christoffermattssonlangseth/cellular-architecture-of-evolving-neuroinflammatory-lesions-and-multiple-sclerosis-pathology)**: Multiple sclerosis (MS) involves multifocal lesions and chronic smoldering pathology, yet the dynamic cellular processes driving lesion evolution remain poorly understood. Using the EAE mouse model together with single-cell spatial transcriptomics (in situ sequencing), we mapped disease progression across time and space, revealing centrifugal growth of active lesions and the emergence of disease-associated glial states that form independently of lesions and change dynamically throughout the disease course. Parallel single-cell spatial mapping of human MS spinal cords confirmed distinct distributions of homeostatic and disease-associated glia, enabled fine-grained deconvolution of active and inactive lesions, and uncovered previously unrecognized pathological sub-compartments. Together, this work establishes a cross-species single-cell spatial atlas of MS neuropathology and highlights the complex, evolving cellular dynamics underlying lesion initiation, propagation, and resolution. (**first ever Xenium publication**) *([Cell, 2024](https://doi.org/10.1016/j.cell.2024.02.030))*
+
+Featured in:
+1. [10X Genomics website on inital release](https://www.10xgenomics.com/blog/plotting-the-course-of-multiple-sclerosis-lesions-with-single-cell-spatial-imaging)
+2. [Stockholm Univerisity website](https://www.su.se/department-of-biochemistry-and-biophysics/news/cellular-architecture-of-lesions-in-ms-now-mapped-out-1.723838)
+3. [Karolinska Institutet website](https://news.ki.se/cellular-architecture-of-lesions-in-ms-now-mapped-out)
+
+## PostDoc projects
+- **[oligo-mtDSB](https://github.com/christoffermattssonlangseth/oligo-mtDSB)**: Investigates the consequences of DBS in mtDNA in oligos. Xenium data.
+
+- **[metamitoMicS](https://github.com/christoffermattssonlangseth/metamitoMicS)**: metamitoMicS is a repository focused on the analysis of metabolic and mitochondrial pathways in neuroinflammation and MS. It brings together spatial transcriptomics, omics integration, and computational biology to explore how energetic dysfunction shapes lesion microenvironments.
+
+- **[OligoC4b](https://github.com/christoffermattssonlangseth/OligoC4b)**: Exploring C4b in the context of disease and aging. Contains open source data from Xenium, Visum and single-cell RNA seq.
+
+- **[ST-BRICHOS](https://github.com/christoffermattssonlangseth/ST-BRICHOS)**: Spatial transcriptomics of AD mouse brains treated with BRICHOS to map amyloid, neuroinflammatory, and neuroprotective transcriptional changes.
+
