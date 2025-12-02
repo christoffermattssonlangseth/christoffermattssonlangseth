@@ -16,7 +16,7 @@ Featured in:
 
 - **[metamitoMicS](https://github.com/christoffermattssonlangseth/metamitoMicS)**: metamitoMicS is a repository focused on the analysis of metabolic and mitochondrial pathways in neuroinflammation and MS. It brings together spatial transcriptomics, omics integration, and computational biology to explore how energetic dysfunction shapes lesion microenvironments.
 
-- **[RRmap (Private repo for now)](https://github.com/christoffermattssonlangseth/RRMap)**:RRMap: Relapsing-Remitting Mapping of CNS Inflammation.
+- **[RRmap (Private repo for now)](https://github.com/christoffermattssonlangseth/RRMap)**: RRMap: Relapsing-Remitting Mapping of CNS Inflammation.
 
 - **[OligoC4b](https://github.com/christoffermattssonlangseth/OligoC4b)**: Exploring C4b in the context of disease and aging. Contains open source data from Xenium, Visum and single-cell RNA seq.
 
