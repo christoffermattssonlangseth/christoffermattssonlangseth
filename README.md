@@ -11,12 +11,12 @@ Featured in:
 2. [Stockholm Univerisity website](https://www.su.se/department-of-biochemistry-and-biophysics/news/cellular-architecture-of-lesions-in-ms-now-mapped-out-1.723838)
 3. [Karolinska Institutet website](https://news.ki.se/cellular-architecture-of-lesions-in-ms-now-mapped-out)
 
-
-
 ## PostDoc projects
 - **[oligo-mtDSB](https://github.com/christoffermattssonlangseth/oligo-mtDSB)**: Investigates the consequences of DBS in mtDNA in oligos. Xenium data.
 
 - **[metamitoMicS](https://github.com/christoffermattssonlangseth/metamitoMicS)**: metamitoMicS is a repository focused on the analysis of metabolic and mitochondrial pathways in neuroinflammation and MS. It brings together spatial transcriptomics, omics integration, and computational biology to explore how energetic dysfunction shapes lesion microenvironments.
+
+- **[RRmap (Private repo for now)](https://github.com/christoffermattssonlangseth/RRMap)**:RRMap: Relapsing-Remitting Mapping of CNS Inflammation.
 
 - **[OligoC4b](https://github.com/christoffermattssonlangseth/OligoC4b)**: Exploring C4b in the context of disease and aging. Contains open source data from Xenium, Visum and single-cell RNA seq.
 
