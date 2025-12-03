@@ -13,11 +13,11 @@ Featured in:
 3. [Karolinska Institute website](https://news.ki.se/cellular-architecture-of-lesions-in-ms-now-mapped-out)
 
 ## PostDoc projects
+- **[RRmap (Private repo for now)](https://github.com/christoffermattssonlangseth/RRMap)**: RRMap: Relapsing-Remitting Mapping of CNS Inflammation. <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
+
 - **[oligo-mtDSB](https://github.com/christoffermattssonlangseth/oligo-mtDSB)**: Investigates the consequences of DBS in mtDNA in oligos. Xenium data. <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
 
 - **[metamitoMicS](https://github.com/christoffermattssonlangseth/metamitoMicS)**: metamitoMicS is a repository focused on the analysis of metabolic and mitochondrial pathways in neuroinflammation and MS. It brings together spatial transcriptomics, omics integration, and computational biology to explore how energetic dysfunction shapes lesion microenvironments. <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
-
-- **[RRmap (Private repo for now)](https://github.com/christoffermattssonlangseth/RRMap)**: RRMap: Relapsing-Remitting Mapping of CNS Inflammation. <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
 
 - **[OligoC4b](https://github.com/christoffermattssonlangseth/OligoC4b)**: Exploring C4b in the context of disease and aging. Contains open source data from Xenium, Visum and single-cell RNA seq. <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
 
