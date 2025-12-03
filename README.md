@@ -25,4 +25,4 @@ Featured in:
 
 - **[bejsor](https://github.com/christoffermattssonlangseth/bejsor)**: This is a modified fork, humorously named Bejsor, which includes a stupid workaround to reduce excessive RAM usage when running Baysor on high-transcript-count datasets. <img src="https://www.logo.wine/a/logo/Julia_(programming_language)/Julia_(programming_language)-Logo.wine.svg" height="20" class="image is-16x16 is-inline-block" />
 
-
+- **[Research vision](https://github.com/christoffermattssonlangseth/research-vision)**: A private repository where I develop and refine my long-term scientific vision, map out conceptual frameworks, and articulate the strategic direction for my future independent research program.
