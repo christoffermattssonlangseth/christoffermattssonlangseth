@@ -1,6 +1,11 @@
 # About me
 Computational biologist in the Castelo-Branco lab at Karolinska Institutet, specializing in neuroinflammation and spatial omics. I’m particularly interested in how spatially resolved technologies can uncover metabolic and mitochondrial dynamics within inflamed CNS tissue.
 
+## 📄 CV & Research Vision
+- **Full CV (PDF)**: [cv.pdf](https://christoffermattssonlangseth.github.io/cv.pdf)
+- **Research vision repo**: [research-vision](https://github.com/christoffermattssonlangseth/research-vision)
+
+
 ## [Doctoral thesis - Cells in Time and Space: Beyond comprehensive cellular atlases towards a deeper understanding of disease](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1929647&dswid=-2336)
 My thesis centered around spatial biology by developing and applying in situ sequencing (ISS) to map cellular organization and disease processes directly within intact tissues. [Paper I](https://pmc.ncbi.nlm.nih.gov/articles/PMC7641728/) introduces an improved hybridization-based ISS method with higher sensitivity and broader gene coverage, enabling analysis of challenging human brain tissue. [Paper II](https://www.nature.com/articles/s42003-021-02517-z) uses this technology to chart 75 transcriptomic cell types across the human cortex, mapping nearly 60,000 cells in their native laminar context. [Paper III](https://pmc.ncbi.nlm.nih.gov/articles/PMC9131697/) applies ISS to developmental biology, profiling oligodendrocyte lineage progression across mouse spinal cord and brain, revealing spatially heterogeneous maturation and neighbor relationships. [Paper IV](https://doi.org/10.1016/j.cell.2024.02.030) models neuroinflammatory lesion development in EAE, constructing a spatiotemporal atlas of MS-like pathology and uncovering globally induced, reversible disease-associated glial states and lesion-propagation dynamics, validated in human MS spinal cord. Collectively, the thesis demonstrates how ISS can move beyond static cellular atlases to illuminate dynamic tissue architecture, lineage progression, and disease evolution.
 
@@ -23,6 +28,7 @@ Featured in:
 
 - **[ST-BRICHOS](https://github.com/christoffermattssonlangseth/ST-BRICHOS)**: Spatial transcriptomics of AD mouse brains treated with BRICHOS to map amyloid, neuroinflammatory, and neuroprotective transcriptional changes. <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
 
+- **[Spinal cord injury](https://github.com/christoffermattssonlangseth/spinal_cord_injury)**: MERSCOPE data targetting 500 genes across spinal cord injury models <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
+
 - **[bejsor](https://github.com/christoffermattssonlangseth/bejsor)**: This is a modified fork, humorously named Bejsor, which includes a stupid workaround to reduce excessive RAM usage when running Baysor on high-transcript-count datasets. <img src="https://www.logo.wine/a/logo/Julia_(programming_language)/Julia_(programming_language)-Logo.wine.svg" height="20" class="image is-16x16 is-inline-block" />
 
-- **[Research vision](https://github.com/christoffermattssonlangseth/research-vision)**: A private repository where I develop and refine my long-term scientific vision, map out conceptual frameworks, and articulate the strategic direction for my future independent research program.
