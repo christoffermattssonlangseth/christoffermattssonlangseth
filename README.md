@@ -2,7 +2,7 @@
 Computational biologist in the Castelo-Branco lab at Karolinska Institutet, specializing in neuroinflammation and spatial omics. I’m particularly interested in how spatially resolved technologies can uncover metabolic and mitochondrial dynamics within inflamed CNS tissue.
 
 ## 📄 CV & Research Vision
-- **Full CV**: [cv.pdf](https://christoffermattssonlangseth.github.io/cv.html)
+- **Full CV**: [CV](https://christoffermattssonlangseth.github.io/cv.html)
 - **Research vision repo**: [research-vision](https://github.com/christoffermattssonlangseth/research-vision)
 
 
