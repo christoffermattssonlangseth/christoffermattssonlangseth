@@ -25,10 +25,10 @@ Coverage: [10X Genomics](https://www.10xgenomics.com/blog/plotting-the-course-of
 
 | Project | Description |
 |---------|-------------|
-| [RRmap](https://github.com/christoffermattssonlangseth/RRMap) | Relapsing-remitting mapping of CNS inflammation (private) |
-| [oligo-mtDSB](https://github.com/christoffermattssonlangseth/oligo-mtDSB) | mtDNA double-strand breaks in oligodendrocytes (Xenium) |
 | [KaroSpace](https://github.com/christoffermattssonlangseth/KaroSpace) | Spatial omics viewer |
 | [InSituCore](https://github.com/christoffermattssonlangseth/InSituCore) | Spatial omics analaysis toolbox and app |
+| [RRmap](https://github.com/christoffermattssonlangseth/RRMap) | Relapsing-remitting mapping of CNS inflammation (private) |
+| [oligo-mtDSB](https://github.com/christoffermattssonlangseth/oligo-mtDSB) | mtDNA double-strand breaks in oligodendrocytes (Xenium) |
 | [metamitoMicS](https://github.com/christoffermattssonlangseth/metamitoMicS) | Metabolic/mitochondrial pathways in neuroinflammation |
 | [OligoC4b](https://github.com/christoffermattssonlangseth/OligoC4b) | C4b in disease and aging (Xenium, Visium, scRNA-seq) |
 | [ST-BRICHOS](https://github.com/christoffermattssonlangseth/ST-BRICHOS) | Spatial transcriptomics of BRICHOS-treated AD mouse brains |
