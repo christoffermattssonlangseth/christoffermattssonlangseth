@@ -2,7 +2,7 @@
 
 Computational biologist in the Castelo-Branco lab at Karolinska Institutet, specializing in neuroinflammation and spatial omics.
 
-[CV](https://christoffermattssonlangseth.github.io/cv.html) · [Research vision](https://github.com/christoffermattssonlangseth/research-vision)
+[CV](https://christoffermattssonlangseth.github.io/cv.html) 
 
 ## PostDoc projects
 
