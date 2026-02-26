@@ -38,3 +38,8 @@ Single-cell spatial transcriptomics atlas mapping neuroinflammatory lesion evolu
 
 Coverage: [10X Genomics](https://www.10xgenomics.com/blog/plotting-the-course-of-multiple-sclerosis-lesions-with-single-cell-spatial-imaging) · [Stockholm University](https://www.su.se/department-of-biochemistry-and-biophysics/news/cellular-architecture-of-lesions-in-ms-now-mapped-out-1.723838) · [Karolinska Institutet](https://news.ki.se/cellular-architecture-of-lesions-in-ms-now-mapped-out)
 
+## Non-science project(s)
+| Project | Description |
+|---------|-------------|
+| [KidDos(e)](https://github.com/christoffermattssonlangseth/KidDose) | iOS app for tracking Ibuprofen and Paracetamol for my kids |
+
