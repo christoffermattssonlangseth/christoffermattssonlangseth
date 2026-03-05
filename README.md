@@ -8,9 +8,9 @@ Computational biologist in the Castelo-Branco lab at Karolinska Institutet, spec
 
 | Project | Description |
 |---------|-------------|
-| [KaroSpace](https://github.com/christoffermattssonlangseth/KaroSpace) | Spatial omics viewer |
+| [KaroSpace](https://github.com/christoffermattssonlangseth/KaroSpace) | Generate spatial omics HTMLs (python) |
+ [KaroSpaceR](https://github.com/christoffermattssonlangseth/KaroSpaceR) | Generate spatial omics HTMLs (R)  |
 | [KaroSpaceBuilder](https://github.com/christoffermattssonlangseth/KaroSpaceBuilder) | App to create KaroSpace HTMLs |
-| [InSituCore](https://github.com/christoffermattssonlangseth/InSituCore) | Spatial omics analaysis toolbox and app |
 | [RRmap](https://github.com/christoffermattssonlangseth/RRMap) | Relapsing-remitting mapping of CNS inflammation (private) |
 | [oligo-mtDSB](https://github.com/christoffermattssonlangseth/oligo-mtDSB) | mtDNA double-strand breaks in oligodendrocytes (Xenium) |
 | [metamitoMicS](https://github.com/christoffermattssonlangseth/metamitoMicS) | Metabolic/mitochondrial pathways in neuroinflammation |
