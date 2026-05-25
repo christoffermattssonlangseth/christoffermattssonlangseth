@@ -1,6 +1,6 @@
 # About me
 
-Computational biologist in the Castelo-Branco lab at Karolinska Institutet, specializing in neuroinflammation and spatial omics.
+Computational biologist in the Castelo-Branco lab at Karolinska Institutet, specializing in neuroinflammation and spatial omics. Co-founder of spatialist (https://www.spatial.ist). 
 [Curriculum vitae.](https://christoffermattssonlangseth.github.io/cv.html) 
 
 
