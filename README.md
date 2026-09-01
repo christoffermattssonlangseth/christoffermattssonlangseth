@@ -42,4 +42,5 @@ Coverage: [10X Genomics](https://www.10xgenomics.com/blog/plotting-the-course-of
 | Project | Description |
 |---------|-------------|
 | [KidDos(e)](https://github.com/christoffermattssonlangseth/KidDose) | iOS app for tracking Ibuprofen and Paracetamol for my kids |
+| [LiftLog](https://github.com/christoffermattssonlangseth/liftlog) | iOS app for tracking gym workout |
 
