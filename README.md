@@ -9,12 +9,7 @@ Computational biologist in the Castelo-Branco lab at Karolinska Institutet, spec
 | Project | Description |
 |---------|-------------|
 | [KaroSpace](https://github.com/christoffermattssonlangseth/KaroSpace) | Generate spatial omics HTMLs (python) |
- [KaroSpaceR](https://github.com/christoffermattssonlangseth/KaroSpaceR) | Generate spatial omics HTMLs (R)  |
 | [KaroSpaceBuilder](https://github.com/christoffermattssonlangseth/KaroSpaceBuilder) | App to create KaroSpace HTMLs |
-| [RRmap](https://github.com/christoffermattssonlangseth/RRMap) | Relapsing-remitting mapping of CNS inflammation (private) |
-| [oligo-mtDSB](https://github.com/christoffermattssonlangseth/oligo-mtDSB) | mtDNA double-strand breaks in oligodendrocytes (Xenium) |
-| [metamitoMicS](https://github.com/christoffermattssonlangseth/metamitoMicS) | Metabolic/mitochondrial pathways in neuroinflammation |
-| [OligoC4b](https://github.com/christoffermattssonlangseth/OligoC4b) | C4b in disease and aging (Xenium, Visium, scRNA-seq) |
 | [ST-BRICHOS](https://github.com/christoffermattssonlangseth/ST-BRICHOS) | Spatial transcriptomics of BRICHOS-treated AD mouse brains |
 | [MANA](https://github.com/christoffermattssonlangseth/MANA) | Metric-aware neighborhood aggregation for spatial data |
 | [Spinal cord injury](https://github.com/christoffermattssonlangseth/spinal_cord_injury) | MERSCOPE 500-gene panel in spinal cord injury |
@@ -42,5 +37,5 @@ Coverage: [10X Genomics](https://www.10xgenomics.com/blog/plotting-the-course-of
 | Project | Description |
 |---------|-------------|
 | [KidDos(e)](https://github.com/christoffermattssonlangseth/KidDose) | iOS app for tracking Ibuprofen and Paracetamol for my kids |
-| [LiftLog](https://github.com/christoffermattssonlangseth/liftlog) | iOS app for tracking gym workouts saving to a training.md file |
+| [Grepp](https://github.com/christoffermattssonlangseth/grepp) | iOS app for tracking gym workouts saving to a training.md file. Claude coach integrated |
 
