@@ -8,8 +8,9 @@ Computational biologist in the Castelo-Branco lab at Karolinska Institutet, spec
 
 | Project | Description |
 |---------|-------------|
-| [KaroSpace](https://github.com/christoffermattssonlangseth/KaroSpace) | Generate spatial omics HTMLs (python) |
+| [KaroSpace](https://github.com/christoffermattssonlangseth/KaroSpace) | Generate spatial omics viewers |
 | [KaroSpaceBuilder](https://github.com/christoffermattssonlangseth/KaroSpaceBuilder) | App to create KaroSpace HTMLs |
+| [KaroSpaceAgent](https://github.com/christoffermattssonlangseth/KaroSpaceAgent) | Agent to facilitate in generation of KaroSpace viewers |
 | [ST-BRICHOS](https://github.com/christoffermattssonlangseth/ST-BRICHOS) | Spatial transcriptomics of BRICHOS-treated AD mouse brains |
 | [MANA](https://github.com/christoffermattssonlangseth/MANA) | Metric-aware neighborhood aggregation for spatial data |
 | [Spinal cord injury](https://github.com/christoffermattssonlangseth/spinal_cord_injury) | MERSCOPE 500-gene panel in spinal cord injury |
