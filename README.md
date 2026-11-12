@@ -14,10 +14,11 @@ Computational biologist in the Castelo-Branco lab at Karolinska Institutet, spec
 ## Non-science project(s)
 | Project | Description |
 |---------|-------------|
-| [KidDos(e)](https://github.com/christoffermattssonlangseth/KidDose) | iOS app for tracking Ibuprofen and Paracetamol for my kids |
+| [Lunta](https://github.com/christoffermattssonlangseth/lunta) | A reference manager for Mac and iPhone that turns papers into clean reading views, with highlights, full-text search, citations and a daily feed of new papers for your research (Windows, linux and Android apps to come) |
 | [Grepp](https://github.com/christoffermattssonlangseth/grepp) | iOS app for tracking gym workouts saving to a training.md file. Claude coach integrated |
 | [BarVelo](https://github.com/christoffermattssonlangseth/BarVelo) | iOS app for tracking bar velocity during workouts  andonnects with Grepp (Under active development) |
-| [Lunta](https://github.com/christoffermattssonlangseth/lunta) | A reference manager for Mac and iPhone that turns papers into clean reading views, with highlights, full-text search, citations and a daily feed of new papers for your research (Windows, linux and Android apps to come) |
+| [KidDos(e)](https://github.com/christoffermattssonlangseth/KidDose) | iOS app for tracking Ibuprofen and Paracetamol for my kids |
+
 
 ## Doctoral thesis
 [Cells in Time and Space: Beyond comprehensive cellular atlases towards a deeper understanding of disease](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1929647&dswid=-2336)
