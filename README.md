@@ -1,5 +1,5 @@
 # About me
-Computational biologist in the Castelo-Branco lab at Karolinska Institutet, specializing in neuroinflammation and spatial omics, and an iOS/macOS developer (SwiftUI, Rust). Co-founder of [spatialist]((https://www.spatial.ist)) and creator of Lunta, a reference manager for reading papers. [Curriculum vitae.](https://christoffermattssonlangseth.github.io/cv.html)
+Computational biologist in the Castelo-Branco lab at Karolinska Institutet, specializing in neuroinflammation and spatial omics, and an iOS/macOS developer (SwiftUI, Rust). Co-founder of [spatialist](https://www.spatial.ist) and creator of Lunta, a reference manager for reading papers. [Curriculum vitae.](https://christoffermattssonlangseth.github.io/cv.html)
 
 
 ## PostDoc projects
