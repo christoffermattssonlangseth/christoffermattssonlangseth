@@ -18,29 +18,6 @@ Computational biologist in the Castelo-Branco group at Karolinska Institutet. My
 
 Open-source toolkit for turning spatial omics datasets into interactive, shareable web viewers.
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, Helvetica, Arial, sans-serif','fontSize':'14px','lineColor':'#8b949e','primaryColor':'#ffffff','primaryBorderColor':'#d0d7de','primaryTextColor':'#24292f'}}}%%
-flowchart LR
-    data["Spatial omics data"]
-    subgraph create ["Create"]
-        direction TB
-        builder["KaroSpaceBuilder<br/><small>desktop app</small>"]
-        agent["KaroSpaceAgent<br/><small>AI-assisted</small>"]
-    end
-    core["KaroSpace<br/><small>viewer generator</small>"]
-    viewer["Interactive web viewer"]
-
-    data --> builder & agent
-    builder & agent --> core
-    core --> viewer
-
-    classDef node fill:#ffffff,stroke:#d0d7de,color:#24292f
-    classDef main fill:#0969da,stroke:#0969da,color:#ffffff
-    class data,builder,agent,viewer node
-    class core main
-    style create fill:#f6f8fa,stroke:#d0d7de,color:#57606a
-```
-
 | Repository | Description |
 |---|---|
 | [**KaroSpace**](https://github.com/christoffermattssonlangseth/KaroSpace) | Core library for generating viewers |
