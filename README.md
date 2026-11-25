@@ -42,4 +42,4 @@ Open-source toolkit for turning spatial omics datasets into interactive, shareab
 | [**Grepp**](https://github.com/christoffermattssonlangseth/grepp) | Strength-training log stored as plain Markdown, with an integrated Claude-based coach | iOS, Android (coming soon) |
 | [**Stryman**](https://github.com/christoffermattssonlangseth/styrman) | Agent orchestration across Claude Code, Antigravity CLI and Codex CLI | iOS · in development |
 | [**BarVelo**](https://github.com/christoffermattssonlangseth/BarVelo) | Bar velocity measurement for velocity-based training, integrated with Grepp | iOS · in development |
-| [**KidDos(e)**](https://github.com/christoffermattssonlangseth/KidDose) | Dose tracking for pediatric ibuprofen and paracetamol | iOS |
+| [**Lindra**](https://github.com/christoffermattssonlangseth/KidDose) | Dose tracking for pediatric ibuprofen and paracetamol | iOS |
