@@ -38,7 +38,7 @@ Open-source toolkit for turning spatial omics datasets into interactive, shareab
 
 | Application | Description | Platform |
 |---|---|---|
-| [**Lunta**](https://github.com/christoffermattssonlangseth/lunta) | Reference manager with reading views, annotations, full-text search, citation export and a daily literature feed | macOS, iOS |
+| [**Lunta**](https://github.com/christoffermattssonlangseth/lunta) | Reference manager with reading views, annotations, full-text search, citation export and a daily literature feed | macOS, iOS, Android, Linux, Windows |
 | [**Grepp**](https://github.com/christoffermattssonlangseth/grepp) | Strength-training log stored as plain Markdown, with an integrated Claude-based coach | iOS |
 | [**BarVelo**](https://github.com/christoffermattssonlangseth/BarVelo) | Bar velocity measurement for velocity-based training, integrated with Grepp | iOS · in development |
 | [**KidDos(e)**](https://github.com/christoffermattssonlangseth/KidDose) | Dose tracking for pediatric ibuprofen and paracetamol | iOS |
